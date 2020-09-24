@@ -1,4 +1,4 @@
-# Amadeus
+# AMADEUS
 **Artificial intelligence and Machine learning frAmework for DEsigning Useful materialS**
 
 AMADEUS is an artificial intellegence program capable of dealing with small datasets in a highly independent manner (with minimal interference of the user beyond providing input data). First results have been published in [\[1\]](#paper1_AvgModel) and was selected as a *featured article* by the Journal of Applied Physics [\[2\]](#paper1_scilight).  
