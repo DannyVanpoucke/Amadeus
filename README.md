@@ -21,7 +21,12 @@ To run experiments using the current version of Amadeus two files need to be mod
     (This is around line 200-250 at the moment of writing)
     
 
-
+## Citing
+If you use Amadeus in your research, please cite the following work:
+*  *"Small Data Materials Design with Machine Learning: When the Average Model Knows Best"*,</br>
+ Danny E. P. Vanpoucke, Onno S. J. van Knippenberg, Ko Hermans, Katrien V. Bernaerts, and Siamak Mehrkanoon, 
+*Journal of Applied Physics* **128(5)**, 054901 (2020).</br>
+DOI: [10.1063/5.0012285](https://dx.doi.org/10.1063/5.0012285)
 
 ## Current Status (disclaimer)
 The current version available is a development version.
